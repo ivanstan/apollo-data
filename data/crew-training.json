@@ -1,0 +1,40 @@
+{
+ "source": "http://history.nasa.gov/SP-4029/Apollo_18-04_Apportionment_of_Training.htm",
+ "data": {
+  "Training Category": {
+   "Training Category": "Missions Before1st Lunar Landing(Apollo 7 - 10)",
+   "Simulators": "11,511",
+   "Special Purpose": "4,023",
+   "Procedures": "7,924",
+   "Briefings": "5,894",
+   "Spacecraft Tests": "2,576",
+   "Total": "31,928"
+  },
+  "Missions Before1st Lunar Landing(Apollo 7 - 10)": {
+   "Training Category": "EarlyLunar LandingMissions(Apollo 11 - 14)",
+   "Simulators": "36",
+   "Special Purpose": "13",
+   "Procedures": "25",
+   "Briefings": "18",
+   "Spacecraft Tests": "8",
+   "Total": "100"
+  },
+  "EarlyLunar LandingMissions(Apollo 11 - 14)": {
+   "Training Category": "FinalLunar LandingMissions(Apollo 15 - 17)",
+   "Simulators": "15,029",
+   "Special Purpose": "5,379",
+   "Procedures": "2,084",
+   "Briefings": "3.070",
+   "Spacecraft Tests": "1,260",
+   "Total": "26,822"
+  },
+  "FinalLunar LandingMissions(Apollo 15 - 17)": {
+   "Simulators": "56",
+   "Special Purpose": "20",
+   "Procedures": "8",
+   "Briefings": "11",
+   "Spacecraft Tests": "5",
+   "Total": "100"
+  }
+ }
+}

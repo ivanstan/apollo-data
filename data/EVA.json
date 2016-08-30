@@ -1,0 +1,63 @@
+{
+ "source": "http://history.nasa.gov/SP-4029/Apollo_18-30_Extravehicular_Activity.htm",
+ "data": {
+  "Apollo 11": {
+   "Earth Orbit EVA": "Scott",
+   "First Surface EVA": null,
+   "Second Surface EVA": null,
+   "Third Surface EVA": null,
+   "Total Lunar Surface EVA": null,
+   "Transearth EVA": null
+  },
+  "Apollo 12": {
+   "Earth Orbit EVA": null,
+   "First Surface EVA": "02:31:40",
+   "Second Surface EVA": null,
+   "Third Surface EVA": null,
+   "Total Lunar Surface EVA": "02:31:40",
+   "Transearth EVA": null
+  },
+  "Apollo 14": {
+   "Earth Orbit EVA": null,
+   "First Surface EVA": "03:56:03",
+   "Second Surface EVA": "03:49:15",
+   "Third Surface EVA": null,
+   "Total Lunar Surface EVA": "07:45:18",
+   "Transearth EVA": null
+  },
+  "Apollo 15": {
+   "Earth Orbit EVA": null,
+   "First Surface EVA": "04:47:50",
+   "Second Surface EVA": "04:34:41",
+   "Third Surface EVA": null,
+   "Total Lunar Surface EVA": "09:22:31",
+   "Transearth EVA": null
+  },
+  "Apollo 16": {
+   "Earth Orbit EVA": null,
+   "LM Stand-Up EVA": "Scott",
+   "First Surface EVA": "06:32:42",
+   "Second Surface EVA": "07:12:14",
+   "Third Surface EVA": "04:49:50",
+   "Total Lunar Surface EVA": "18:34:46",
+   "Transearth EVA": "Worden"
+  },
+  "Apollo 17": {
+   "Earth Orbit EVA": null,
+   "First Surface EVA": "07:11:02",
+   "Second Surface EVA": "07:23:09",
+   "Third Surface EVA": "05:40:03",
+   "Total Lunar Surface EVA": "20:14:14",
+   "Transearth EVA": "Mattingly"
+  },
+  "Apollo 9": {
+   "Earth Orbit EVA": "1st EVA Participant",
+   "LM Stand-Up EVA": "Participant",
+   "First Surface EVA": "Duration",
+   "Second Surface EVA": "Duration",
+   "Third Surface EVA": "Duration",
+   "Total Lunar Surface EVA": "Total Duration",
+   "Transearth EVA": "Participant"
+  }
+ }
+}

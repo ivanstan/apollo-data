@@ -1,0 +1,39 @@
+{
+ "source": "http://history.nasa.gov/SP-4029/Apollo_18-08_Flight_Directors.htm",
+ "data": {
+  "Apollo 7": {
+   "Apollo 7": "Directors",
+   "Shift #1": "Clifford E. Charlesworth",
+   "Shift #2": "Eugene F. Kranz",
+   "Shift #3": "Glynn S. Lunney",
+   "Apollo 8": "Directors",
+   "Apollo 9": "Directors",
+   "Apollo 10": "Directors",
+   "Apollo 11": "Directors"
+  },
+  "Directors": {
+   "Apollo 7": "Apollo 15",
+   "Shift #1": "Shift #1",
+   "Shift #2": "Shift #2",
+   "Shift #3": "Shift #1",
+   "Apollo 9": "Shift #4",
+   "Apollo 10": "Apollo 17"
+  },
+  "Apollo 12": {
+   "Apollo 7": "Directors",
+   "Shift #1": "Gerald D. Griffin",
+   "Shift #2": "Glynn S. Lunney",
+   "Shift #3": "M. P. Pete Frank III",
+   "Apollo 9": "Glynn S. Lunney",
+   "Apollo 10": "Milton L. Windler"
+  },
+  "Apollo 15": {
+   "Apollo 7": "Directors",
+   "Shift #1": "Gerald D. Griffin",
+   "Shift #2": "Eugene F. Kranz",
+   "Shift #3": "Neil B. Hutchinson",
+   "Apollo 9": "Donald R. Puddy",
+   "Apollo 10": "Directors"
+  }
+ }
+}

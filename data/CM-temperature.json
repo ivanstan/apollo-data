@@ -1,0 +1,93 @@
+{
+ "source": "http://history.nasa.gov/SP-4029/Apollo_18-39_CModule_Cabin_Temperature_History.htm",
+ "data": {
+  "Mission": {
+   "Mission": "Apollo 7",
+   "Launch": "70",
+   "Average": "70",
+   "High": "79",
+   "Low": "64",
+   "Reentry": "65"
+  },
+  "Apollo 7": {
+   "Mission": "Apollo 8",
+   "Launch": "65",
+   "Average": "72",
+   "High": "81",
+   "Low": "61",
+   "Reentry": "61"
+  },
+  "Apollo 8": {
+   "Mission": "Apollo 9",
+   "Launch": "65",
+   "Average": "70",
+   "High": "72",
+   "Low": "65",
+   "Reentry": "67"
+  },
+  "Apollo 9": {
+   "Mission": "Apollo 10",
+   "Launch": "75",
+   "Average": "73",
+   "High": "80",
+   "Low": "64",
+   "Reentry": "58"
+  },
+  "Apollo 10": {
+   "Mission": "Apollo 11",
+   "Launch": "70",
+   "Average": "63",
+   "High": "73",
+   "Low": "55",
+   "Reentry": "55"
+  },
+  "Apollo 11": {
+   "Mission": "Apollo 12",
+   "Launch": "70",
+   "Average": "67",
+   "High": "80",
+   "Low": "58",
+   "Reentry": "60"
+  },
+  "Apollo 12": {
+   "Mission": "Apollo 13",
+   "Launch": "70",
+   "Average": "64",
+   "High": "71",
+   "Low": "58 [sic*]",
+   "Reentry": "75"
+  },
+  "Apollo 13": {
+   "Mission": "Apollo 14",
+   "Launch": "70",
+   "Average": "74",
+   "High": "77",
+   "Low": "60",
+   "Reentry": "59"
+  },
+  "Apollo 14": {
+   "Mission": "Apollo 15",
+   "Launch": "70",
+   "Average": "69",
+   "High": "81",
+   "Low": "59",
+   "Reentry": "59"
+  },
+  "Apollo 15": {
+   "Mission": "Apollo 16",
+   "Launch": "70",
+   "Average": "70",
+   "High": "80",
+   "Low": "57",
+   "Reentry": "57"
+  },
+  "Apollo 16": {
+   "Mission": "Apollo 17",
+   "Launch": "70",
+   "Average": "69",
+   "High": "81",
+   "Low": "61",
+   "Reentry": "6"
+  }
+ }
+}

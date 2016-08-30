@@ -1,0 +1,87 @@
+{
+ "source": "http://history.nasa.gov/SP-4029/Apollo_18-34_Lunar_Orbit_Experiments.htm",
+ "data": {
+  "Designation": {
+   "Designation": "Experiment",
+   "S-151": "Cosmic Ray Detector (Helmets)",
+   "S-158": "Multispectral Photography",
+   "S-160": "Gamma-Ray Spectrometer",
+   "S-161": "X-Ray Fluorescence",
+   "S-162": "Alpha-Particle Spectrometer",
+   "S-164": "S-Band Transponder (Subsatellite)",
+   "S-165": "Mass Spectrometer",
+   "S-169": "Far-Ultraviolet Spectrometer",
+   "S-170": "Bistatic Radar",
+   "S-171": "Infrared Scanning Radiometer",
+   "S-173": "Particle Shadows/boundary Layer",
+   "S-174": "Magnetometer",
+   "S-176": "Command Module Window Meteoroid",
+   "S-177": "Ultraviolet Photography, Earth and Moon",
+   "S-178": "Gegenschein from Lunar Orbit",
+   "S-209": "Lunar Sounder",
+   null: "Visual Observations From Lunar Orbit"
+  },
+  "Experiment": {
+   "Designation": "Apollo 8",
+   "S-151": "X",
+   null: "X"
+  },
+  "Apollo 8": {
+   "Designation": "Apollo 11"
+  },
+  "Apollo 11": {
+   "Designation": "Apollo 12",
+   "S-151": "X",
+   "S-158": "X",
+   null: "X"
+  },
+  "Apollo 12": {
+   "Designation": "Apollo 14",
+   "S-164": "X",
+   "S-170": "X",
+   "S-176": "X",
+   "S-178": "X",
+   null: "X"
+  },
+  "Apollo 14": {
+   "Designation": "Apollo 15",
+   "S-160": "X",
+   "S-161": "X",
+   "S-162": "X",
+   "S-164": "X",
+   "S-165": "X",
+   "S-170": "X",
+   "S-173": "X",
+   "S-174": "X",
+   "S-176": "X",
+   "S-177": "X",
+   "S-178": "X",
+   null: "X"
+  },
+  "Apollo 15": {
+   "Designation": "Apollo 16",
+   "S-160": "X",
+   "S-161": "X",
+   "S-162": "X",
+   "S-164": "X",
+   "S-165": "X",
+   "S-170": "X",
+   "S-173": "X",
+   "S-174": "X",
+   "S-176": "X",
+   "S-177": "X",
+   "S-178": "X",
+   null: "X"
+  },
+  "Apollo 16": {
+   "Designation": "Apollo 17",
+   "S-160": "X",
+   "S-164": "X",
+   "S-169": "X",
+   "S-171": "X",
+   "S-176": "X",
+   "S-209": "X",
+   null: "X"
+  }
+ }
+}

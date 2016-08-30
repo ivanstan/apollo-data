@@ -1,0 +1,75 @@
+{
+ "source": "http://history.nasa.gov/SP-4029/Apollo_18-44_Crew_Weight_History.htm",
+ "data": {
+  "Mission": {
+   "Mission": "Crewman",
+   "Apollo 7": "Schirra",
+   "Apollo 8": "Borman",
+   "Apollo 9": "McDivitt",
+   "Apollo 10": "Stafford",
+   "Apollo 11": "Armstrong",
+   "Apollo 12": "Conrad",
+   "Apollo 13": "Lovell",
+   "Apollo 14": "Shepard",
+   "Apollo 15": "Scott",
+   "Apollo 16": "Young",
+   "Apollo 17": "Cernan"
+  },
+  "Crewman": {
+   "Mission": "30 DaysBefore Launch",
+   "Apollo 7": "87.1",
+   "Apollo 8": "76.2",
+   "Apollo 9": "73.5",
+   "Apollo 10": "80.1",
+   "Apollo 11": "78.0",
+   "Apollo 12": "66.2",
+   "Apollo 13": "79.8",
+   "Apollo 14": "78.0",
+   "Apollo 15": "80.5",
+   "Apollo 16": "80.8",
+   "Apollo 17": "81.0"
+  },
+  "30 DaysBefore Launch": {
+   "Mission": "30-DayAverage",
+   "Apollo 7": "87.8",
+   "Apollo 8": "76.6",
+   "Apollo 9": "73.0",
+   "Apollo 10": "79.6",
+   "Apollo 11": "78.4",
+   "Apollo 12": "66.6",
+   "Apollo 13": "78.7",
+   "Apollo 14": "78.4",
+   "Apollo 15": "81.1",
+   "Apollo 16": "80.1",
+   "Apollo 17": "80.7"
+  },
+  "30-DayAverage": {
+   "Mission": "Launch",
+   "Apollo 7": "88.0",
+   "Apollo 8": "76.6",
+   "Apollo 9": "72.1",
+   "Apollo 10": "77.6",
+   "Apollo 11": "78.0",
+   "Apollo 12": "67.7",
+   "Apollo 13": "80.5",
+   "Apollo 14": "76.2",
+   "Apollo 15": "80.2",
+   "Apollo 16": "78.9",
+   "Apollo 17": "80.3"
+  },
+  "Launch": {
+   "Mission": "Recovery",
+   "Apollo 7": "86.1",
+   "Apollo 8": "72.8",
+   "Apollo 9": "69.6",
+   "Apollo 10": "76.4",
+   "Apollo 11": "74.4",
+   "Apollo 12": "65.8",
+   "Apollo 13": "74.2",
+   "Apollo 14": "76.6",
+   "Apollo 15": "78.9",
+   "Apollo 16": "75.5",
+   "Apollo 17": "76.1"
+  }
+ }
+}

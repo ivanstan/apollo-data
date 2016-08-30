@@ -1,0 +1,115 @@
+{
+ "source": "http://history.nasa.gov/SP-4029/Apollo_18-05_Apollo_Training_Exercises.htm",
+ "data": {
+  "Exercise": {
+   "Exercise": "Apollo 7",
+   "Surface Operations": null,
+   "Operations Before/After EVA": null,
+   "Total Per Mission": "18",
+   "Geology Field Trips[2]": null,
+   "Command Module Simulator": "18",
+   "Lunar Module Simulator": "0",
+   "Command Module and Lunar Module Simulators": "0"
+  },
+  "Apollo 7": {
+   "Exercise": "Apollo 8",
+   "Surface Operations": null,
+   "Operations Before/After EVA": null,
+   "Total Per Mission": "14",
+   "Geology Field Trips[2]": null,
+   "Command Module Simulator": "14",
+   "Lunar Module Simulator": "0",
+   "Command Module and Lunar Module Simulators": "0"
+  },
+  "Apollo 8": {
+   "Exercise": "Apollo 9",
+   "Surface Operations": null,
+   "Operations Before/After EVA": null,
+   "Total Per Mission": "20",
+   "Geology Field Trips[2]": null,
+   "Command Module Simulator": "10",
+   "Lunar Module Simulator": "2",
+   "Command Module and Lunar Module Simulators": "8"
+  },
+  "Apollo 9": {
+   "Exercise": "Apollo 10",
+   "Surface Operations": null,
+   "Operations Before/After EVA": null,
+   "Total Per Mission": "18",
+   "Geology Field Trips[2]": null,
+   "Command Module Simulator": "11",
+   "Lunar Module Simulator": "0",
+   "Command Module and Lunar Module Simulators": "7"
+  },
+  "Apollo 10": {
+   "Exercise": "Apollo 11",
+   "Surface Operations": "20",
+   "Operations Before/After EVA": "10",
+   "Total Per Mission": "17 (1)",
+   "Geology Field Trips[2]": "1",
+   "Command Module Simulator": "6 (1)",
+   "Lunar Module Simulator": "4",
+   "Command Module and Lunar Module Simulators": "7"
+  },
+  "Apollo 11": {
+   "Exercise": "Apollo 12",
+   "Surface Operations": "31",
+   "Operations Before/After EVA": "4",
+   "Total Per Mission": "25",
+   "Geology Field Trips[2]": "4",
+   "Command Module Simulator": "10",
+   "Lunar Module Simulator": "3",
+   "Command Module and Lunar Module Simulators": "12"
+  },
+  "Apollo 12": {
+   "Exercise": "Apollo 13",
+   "Surface Operations": "42",
+   "Operations Before/After EVA": "11",
+   "Total Per Mission": "27",
+   "Geology Field Trips[2]": "7",
+   "Command Module Simulator": "13",
+   "Lunar Module Simulator": "5",
+   "Command Module and Lunar Module Simulators": "9"
+  },
+  "Apollo 13": {
+   "Exercise": "Apollo 14",
+   "Surface Operations": "43",
+   "Operations Before/After EVA": "18",
+   "Total Per Mission": "29 (6)",
+   "Geology Field Trips[2]": "7",
+   "Command Module Simulator": "12 (3)",
+   "Lunar Module Simulator": "5 (2)",
+   "Command Module and Lunar Module Simulators": "12 (1)"
+  },
+  "Apollo 14": {
+   "Exercise": "Apollo 15",
+   "Surface Operations": "91",
+   "Operations Before/After EVA": "20",
+   "Total Per Mission": "25 (6)",
+   "Geology Field Trips[2]": "12",
+   "Command Module Simulator": "13 (6)",
+   "Lunar Module Simulator": "5",
+   "Command Module and Lunar Module Simulators": "7"
+  },
+  "Apollo 15": {
+   "Exercise": "Apollo 16",
+   "Surface Operations": "67",
+   "Operations Before/After EVA": "10",
+   "Total Per Mission": "33 (6)",
+   "Geology Field Trips[2]": "18",
+   "Command Module Simulator": "16 (5)",
+   "Lunar Module Simulator": "7 (1)",
+   "Command Module and Lunar Module Simulators": "10"
+  },
+  "Apollo 16": {
+   "Exercise": "Apollo 17",
+   "Surface Operations": "47",
+   "Operations Before/After EVA": "20",
+   "Total Per Mission": "28 (2)",
+   "Geology Field Trips[2]": "13",
+   "Command Module Simulator": "13 (2)",
+   "Lunar Module Simulator": "6",
+   "Command Module and Lunar Module Simulators": "9"
+  }
+ }
+}

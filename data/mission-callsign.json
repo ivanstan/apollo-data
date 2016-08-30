@@ -1,0 +1,33 @@
+{
+ "source": "http://history.nasa.gov/SP-4029/Apollo_18-17_Call_Signs.htm",
+ "data": {
+  "Mission": {
+   "Mission": "Command Module",
+   "Apollo 7": "Apollo 7 .",
+   "Apollo 8": "Apollo 8 .",
+   "Apollo 9": "Gumdrop . Derived from the appearance of the spacecraft when transported on Earth. During shipment, it was wrapped in blue wrappings giving appearance of a wrapped gumdrop.",
+   "Apollo 10": "Charlie Brown , from a character in comic strip Peanuts© drawn by Charles L. Schulz. As in the comic, the CM Charlie Brown would be the guardian of the LM Snoopy. ",
+   "Apollo 11": "Columbia , after Columbiad , the canon used to launch Jules Verne’s moonship (commonly thought to be the moonship itself which was referred to only as the projectile ); also used because of the close relationship of the word to the United States’ origins.",
+   "Apollo 12": "Yankee Clipper , selected from names submitted by employees of the command module prime contractor.",
+   "Apollo 13": "Odyssey, reminiscent of the long voyage of Odysseus of Greek mythology.",
+   "Apollo 14": "Kitty Hawk , the site of the Wright brothers’ first flight in Kitty Hawk, NC.",
+   "Apollo 15": "Endeavor, for the ship which carried Captain James Cook on his 18th-century scientific voyages.",
+   "Apollo 16": "Casper , named for a cartoon character, Casper the Friendly Ghost, because the white Teflon suits worn by the crew looked shapeless on television screens.",
+   "Apollo 17": "America , as a tribute and a symbol of thanks to the American people who made the Apollo program possible."
+  },
+  "Command Module": {
+   "Mission": "Lunar Module",
+   "Apollo 7": "None.",
+   "Apollo 8": "None.",
+   "Apollo 9": "Spider , derived from its bug‑like configuration.",
+   "Apollo 10": "Snoopy, after the beagle dog character in the same comic strip. The name referred to the fact that the LM would be snooping around the lunar surface in low orbit. Also, at the Manned Spacecraft Center, Snoopy was symbol of quality performance. Employees who did outstanding work were awarded a silver Snoopy pin.",
+   "Apollo 11": "Eagle, after the eagle selected for the mission insignia.",
+   "Apollo 12": "Intrepid , selected from names submitted by employees of the lunar module prime contractor.",
+   "Apollo 13": "Aquarius, after the Egyptian god Aquarius, the water carrier. Aquarius brought fertility and therefore life and knowledge to the Nile Valley, as the Apollo 13 crew hoped to bring knowledge from the Moon.",
+   "Apollo 14": "Antares , for the star on which the LM oriented itself for lunar landing.",
+   "Apollo 15": "Falcon, named for the USAF Academy mascot by Apollo 15’s all-Air Force crew.",
+   "Apollo 16": "Orion, for a constellation, because the crew would depend on star sightings to navigate in cislunar space.",
+   "Apollo 17": "Challenger, indicative of the challenges of the future, beyond the Apollo program."
+  }
+ }
+}

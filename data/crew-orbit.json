@@ -1,0 +1,61 @@
+{
+ "source": "http://history.nasa.gov/SP-4029/Apollo_18-02_Crew_Information_-_E-Orbit_and_L-Orbit.htm",
+ "data": {
+  "Apollo 7": {
+   "Commander": "Walter Marty Schirra, Jr.",
+   "Date of Birth": "16 Mar 1932",
+   "Place of Birth": "Creston, IA",
+   "Age On Launch Date": "36",
+   "Status": "Commander",
+   "Year Selected Astronaut": "1963",
+   "Prior Space Flights": "None",
+   "Backup": "Eugene Andrew Cernan",
+   "Command Module Pilot": "Donn Fulton Eisele",
+   "Date of Death": "01 Dec 1987",
+   "Place of Death": "Tokyo, Japan",
+   "Lunar Module Pilot": "Ronnie Walter Cunningham"
+  },
+  "Apollo 8": {
+   "Commander": "Frank Frederick Borman, II",
+   "Date of Birth": "17 Oct 1933",
+   "Place of Birth": "Hong Kong",
+   "Age On Launch Date": "35",
+   "Status": "Civilian",
+   "Year Selected Astronaut": "1963",
+   "Prior Space Flights": "None",
+   "Backup": "Fred Wallace Haise, Jr.",
+   "Command Module Pilot": "James Arthur Lovell, Jr.",
+   "Date of Death": null,
+   "Place of Death": null,
+   "Lunar Module Pilot": "William Alison Anders"
+  },
+  "Apollo 9": {
+   "Commander": "James Alton McDivitt",
+   "Date of Birth": "25 Oct 1935",
+   "Place of Birth": "Neptune, NJ",
+   "Age On Launch Date": "33",
+   "Status": "Commander",
+   "Year Selected Astronaut": "1963",
+   "Prior Space Flights": "None",
+   "Backup": "Alan LaVern Bean",
+   "Command Module Pilot": "David Randolph Scott",
+   "Date of Death": null,
+   "Place of Death": null,
+   "Lunar Module Pilot": "Russell Louis Schweickart"
+  },
+  "Apollo 10": {
+   "Commander": "Thomas Patten Stafford",
+   "Date of Birth": "14 Mar 1934",
+   "Place of Birth": "Chicago, IL",
+   "Age On Launch Date": "35",
+   "Status": "Commander",
+   "Year Selected Astronaut": "1963",
+   "Prior Space Flights": "GT-9A",
+   "Backup": "Edgar Dean Mitchell",
+   "Command Module Pilot": "John Watts Young",
+   "Date of Death": null,
+   "Place of Death": null,
+   "Lunar Module Pilot": "Eugene Andrew Cernan"
+  }
+ }
+}

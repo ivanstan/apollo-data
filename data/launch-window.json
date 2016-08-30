@@ -1,0 +1,115 @@
+{
+ "source": "http://history.nasa.gov/SP-4029/Apollo_18-14_Launch_Windows.htm",
+ "data": {
+  "Apollo 7": {
+   "KSC Date": "11 Oct 1968",
+   "KSC Time": "03:00:00 p.m.",
+   "Time Zone": "EDT",
+   "GMT Date": "11 Oct 1968",
+   "GMT Time": "20:00:00",
+   "H:MM:SS": "4:00:00",
+   "Minutes": "240",
+   "Targeted Lunar SunElevation Angle (deg)": null
+  },
+  "Apollo 8": {
+   "KSC Date": "21 Dec 1968",
+   "KSC Time": "12:31:40 p.m.",
+   "Time Zone": "EST",
+   "GMT Date": "21 Dec 1968",
+   "GMT Time": "17:31:40",
+   "H:MM:SS": "4:41:18",
+   "Minutes": "281",
+   "Targeted Lunar SunElevation Angle (deg)": "6.74"
+  },
+  "Apollo 9": {
+   "KSC Date": "03 Mar 1969",
+   "KSC Time": "02:15:00 p.m.",
+   "Time Zone": "EST",
+   "GMT Date": "03 Mar 1969",
+   "GMT Time": "19:15:00",
+   "H:MM:SS": "3:15:00",
+   "Minutes": "195",
+   "Targeted Lunar SunElevation Angle (deg)": null
+  },
+  "Apollo 10": {
+   "KSC Date": "18 May 1969",
+   "KSC Time": "05:09:00 p.m.",
+   "Time Zone": "EDT",
+   "GMT Date": "18 May 1969",
+   "GMT Time": "21:09:00",
+   "H:MM:SS": "4:20:00",
+   "Minutes": "260",
+   "Targeted Lunar SunElevation Angle (deg)": "11.0"
+  },
+  "Apollo 11": {
+   "KSC Date": "16 Jul 1969",
+   "KSC Time": "01:54:00 p.m.",
+   "Time Zone": "EDT",
+   "GMT Date": "16 Jul 1969",
+   "GMT Time": "17:54:00",
+   "H:MM:SS": "4:22:00",
+   "Minutes": "262",
+   "Targeted Lunar SunElevation Angle (deg)": "10.8"
+  },
+  "Apollo 12": {
+   "KSC Date": "14 Nov 1969",
+   "KSC Time": "02:28:00 p.m.",
+   "Time Zone": "EST",
+   "GMT Date": "14 Nov 1969",
+   "GMT Time": "19:28:00",
+   "H:MM:SS": "3:06:00",
+   "Minutes": "186",
+   "Targeted Lunar SunElevation Angle (deg)": "5.1"
+  },
+  "Apollo 13": {
+   "KSC Date": "11 Apr 1970",
+   "KSC Time": "05:36:00 p.m.",
+   "Time Zone": "EST",
+   "GMT Date": "11 Apr 1970",
+   "GMT Time": "22:36:00",
+   "H:MM:SS": "3:23:00",
+   "Minutes": "203",
+   "Targeted Lunar SunElevation Angle (deg)": "10.0"
+  },
+  "Apollo 14": {
+   "KSC Date": "31 Jan 1971",
+   "KSC Time": "07:12:00 p.m.",
+   "Time Zone": "EST",
+   "GMT Date": "01 Feb 1971",
+   "GMT Time": "00:12:00",
+   "H:MM:SS": "3:49:00",
+   "Minutes": "229",
+   "Targeted Lunar SunElevation Angle (deg)": "10.3"
+  },
+  "Apollo 15": {
+   "KSC Date": "26 Jul 1971",
+   "KSC Time": "12:11:00 p.m.",
+   "Time Zone": "EDT",
+   "GMT Date": "26 Jul 1971",
+   "GMT Time": "16:11:00",
+   "H:MM:SS": "3:37:00",
+   "Minutes": "217",
+   "Targeted Lunar SunElevation Angle (deg)": "12.0"
+  },
+  "Apollo 16": {
+   "KSC Date": "16 Apr 1972",
+   "KSC Time": "04:43:00 p.m.",
+   "Time Zone": "EST",
+   "GMT Date": "16 Apr 1972",
+   "GMT Time": "21:43:00",
+   "H:MM:SS": "3:49:00",
+   "Minutes": "229",
+   "Targeted Lunar SunElevation Angle (deg)": "11.9"
+  },
+  "Apollo 17": {
+   "KSC Date": "07 Dec 1972",
+   "KSC Time": "01:31:00 a.m.",
+   "Time Zone": "EST",
+   "GMT Date": "07 Dec 1972",
+   "GMT Time": "06:31:00",
+   "H:MM:SS": "3:38:00",
+   "Minutes": "218",
+   "Targeted Lunar SunElevation Angle (deg)": "13.3"
+  }
+ }
+}

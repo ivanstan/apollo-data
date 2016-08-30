@@ -1,0 +1,53 @@
+{
+ "source": "http://history.nasa.gov/SP-4029/Apollo_18-28b_LM_Ascent_Stage_Propellant_Status.htm",
+ "data": {
+  "Weight (lbm)": {
+   "Weight (lbm)": "Apollo 9",
+   "Fuel": "1,558",
+   "Oxidizer": "2,524",
+   "Total": "4,082"
+  },
+  "Apollo 9": {
+   "Weight (lbm)": "Apollo 10",
+   "Fuel": "887",
+   "Oxidizer": "1,408",
+   "Total": "2,295"
+  },
+  "Apollo 10": {
+   "Weight (lbm)": "Apollo 11",
+   "Fuel": "1,856",
+   "Oxidizer": "2,980",
+   "Total": "4,836"
+  },
+  "Apollo 11": {
+   "Weight (lbm)": "Apollo 12",
+   "Fuel": "1,862",
+   "Oxidizer": "3,005",
+   "Total": "4,867"
+  },
+  "Apollo 12": {
+   "Weight (lbm)": "Apollo 14",
+   "Fuel": "1,879.0",
+   "Oxidizer": "3,014.0",
+   "Total": "4,893.0"
+  },
+  "Apollo 14": {
+   "Weight (lbm)": "Apollo 15",
+   "Fuel": "1,893.4",
+   "Oxidizer": "3,052.6",
+   "Total": "4,946.0"
+  },
+  "Apollo 15": {
+   "Weight (lbm)": "Apollo 16",
+   "Fuel": "1,869.8",
+   "Oxidizer": "3,011.0",
+   "Total": "4,880.8"
+  },
+  "Apollo 16": {
+   "Weight (lbm)": "Apollo 17",
+   "Fuel": "1,918.0",
+   "Oxidizer": "3,059.2",
+   "Total": "4,977.2"
+  }
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "source": "http://history.nasa.gov/SP-4029/Apollo_18-07_Support_Crews.htm",
+ "data": {
+  "Apollo 7": {
+   "Apollo 7": "Apollo 11",
+   "Lt. Cdr. Ronald Ellwin Evans, USN": "Lt. Cdr. Thomas Kenneth Mattingly, II, USN",
+   "Maj. William Reid Pogue, USAF": "Lt. Cdr. Ronald Ellwin Evans, USN",
+   "John Leonard Swigert, Jr.": "Maj. William Reid Pogue, USAF",
+   "Vance DeVoe Brand": "Apollo 12",
+   "Lt. Cdr. Thomas Kenneth Mattingly, II, USN": "Maj. Gerald Paul Carr, USMC",
+   "Maj. Gerald Paul Carr, USMC": "Cdr. Paul Joseph Weitz, USN",
+   "Maj. Jack Robert Lousma, USMC": "Apollo 13",
+   "Lt. Cdr. Edgar Dean Mitchell, USN/Sc. D.": "Maj. Jack Robert Lousma, USMC",
+   "Maj. Alfred Merrill Worden, USAF": "Vance DeVoe Brand",
+   "Maj. Joe Henry Engle, USAF": "Apollo 14",
+   "Lt. Col. James Benson Irwin, USAF": "Lt. Cdr. Bruce McCandless, II, USN",
+   "Maj. Charles Moss Duke, Jr., USAF": "Lt. Col. William Reid Pogue, USAF"
+  },
+  "Apollo 11": {
+   "Apollo 7": "Apollo 15",
+   "Lt. Cdr. Ronald Ellwin Evans, USN": "Karl Gordon Henize, Ph. D.",
+   "Maj. William Reid Pogue, USAF": "Joseph Percival Allen, IV, Ph. D",
+   "John Leonard Swigert, Jr.": "Robert Alan Ridley Parker, Ph. D",
+   "Apollo 8": "Apollo 16",
+   "Vance DeVoe Brand": "Maj. Donald Herod Peterson, USAF",
+   "Lt. Cdr. Thomas Kenneth Mattingly, II, USN": "Anthony Wayne England, Ph. D.",
+   "Maj. Gerald Paul Carr, USMC": "Maj. Henry Warren Hartsfield, Jr., USAF",
+   "Maj. Jack Robert Lousma, USMC": "Apollo 17",
+   "Lt. Cdr. Edgar Dean Mitchell, USN/Sc. D.": "Lt. Col. Robert Franklyn Overmyer, USMC",
+   "Maj. Alfred Merrill Worden, USAF": "Robert Alan Ridley Parker, Ph. D."
+  }
+ }
+}

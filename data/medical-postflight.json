@@ -1,0 +1,47 @@
+{
+ "source": "http://history.nasa.gov/SP-4029/Apollo_18-46_Postflight_Medical_Problems.htm",
+ "data": {
+  "Diagnosis": {
+   "Diagnosis": "Etiology",
+   "Barotitis media": "Eustachian tube blockage",
+   "Folliculitis, right anterior chest": "Bacterial",
+   "Gastroenteritis": "Bacterial",
+   "Herpetic lesion, lip": "Herpes virus",
+   "Influenza syndrome": "Influenza B virusUndeterminedInfluenza A virus",
+   "Laceration of the forehead": "Trauma",
+   "Rhinorrhea, mild": "Fiberglass particle",
+   "Papular lesions, parasacral": "Bacteria",
+   "Prostatitis": "Undetermined",
+   "Rhinitis": "Viral",
+   "Acute maxillary sinusitis": "Bacterial",
+   "Urinary tract infection": "Pseudomonas",
+   "Rhinitis and pharyngitis": "Influenza B virus",
+   "Rhinitis and secondary bronchitis": "Beta-streptococcus (not group A)",
+   "Contact dermatitis": "FiberglassBeta clothMicropore tape",
+   "Subungual hemorrhages, finger nails": "Trauma"
+  },
+  "Etiology": {
+   "Diagnosis": "Cases",
+   "Barotitis media": "7",
+   "Folliculitis, right anterior chest": "1",
+   "Gastroenteritis": "1",
+   "Herpetic lesion, lip": "1",
+   "Influenza syndrome": "111",
+   "Laceration of the forehead": "1",
+   "Rhinorrhea, mild": "1",
+   "Papular lesions, parasacral": "1",
+   "Prostatitis": "2",
+   "Pulpitis, tooth No. 7": "1",
+   "Pustules, eyelids": "1",
+   "Rhinitis": "3",
+   "Acute maxillary sinusitis": "1",
+   "Ligamentous strain, right shoulder": "1",
+   "Urinary tract infection": "1",
+   "Vestibular dysfunction, mild": "1",
+   "Rhinitis and pharyngitis": "1",
+   "Rhinitis and secondary bronchitis": "1",
+   "Contact dermatitis": "116",
+   "Subungual hemorrhages, finger nails": "3"
+  }
+ }
+}
