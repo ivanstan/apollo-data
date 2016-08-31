@@ -1,0 +1,114 @@
+<html>
+<head>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.js"></script>
+    <script>
+
+        var urls = {
+            'tle.json': 'http://history.nasa.gov/SP-4029/Apollo_18-24_Translunar_Injection.htm',
+            // 'general.json': 'http://history.nasa.gov/SP-4029/Apollo_18-01_General_Background.htm',
+            // 'crew.json': 'http://history.nasa.gov/SP-4029/Apollo_18-02_Crew_Information_-_E-Orbit_and_L-Orbit.htm',
+            // 'crew-lunar.json': 'http://history.nasa.gov/SP-4029/Apollo_18-03_Crew_Information_-_Lunar_Landings.htm',
+            // 'training-apportionment.json': 'http://history.nasa.gov/SP-4029/Apollo_18-04_Apportionment_of_Training.htm',
+            // 'training-exercises.json': 'http://history.nasa.gov/SP-4029/Apollo_18-05_Apollo_Training_Exercises.htm',
+            // 'capcoms.json': 'http://history.nasa.gov/SP-4029/Apollo_18-06_Capsule_Communicators.htm',
+            // 'crew-support.json': 'http://history.nasa.gov/SP-4029/Apollo_18-07_Support_Crews.htm',
+            // 'flight-directors.json': 'http://history.nasa.gov/SP-4029/Apollo_18-08_Flight_Directors.htm',
+            // 'space-vehicle-config.json': 'http://history.nasa.gov/SP-4029/Apollo_18-09_Apollo_Space_Vehicle_Configuration.htm',
+            // 'designations.json': 'http://history.nasa.gov/SP-4029/Apollo_18-10_Designations.htm',
+            // 'vehicle-key-facts-1.json': 'http://history.nasa.gov/SP-4029/Apollo_18-11_Launch_Vehicle-Spacecraft_Key_Facts.htm',
+            // 'vehicle-key-facts-2.json': 'http://history.nasa.gov/SP-4029/Apollo_18-12_Launch_Vehicle-Spacecraft_Key_Facts.htm',
+            // 'vehicle-key-facts-3.json': 'http://history.nasa.gov/SP-4029/Apollo_18-13_Launch_Vehicle-Spacecraft_Key_Facts.htm',
+            // 'launch-window.json': 'http://history.nasa.gov/SP-4029/Apollo_18-14_Launch_Windows.htm',
+            // 'launch-weather.json': 'http://history.nasa.gov/SP-4029/Apollo_18-15_Launch_Weather.htm',
+            // 'budget.json': 'http://history.nasa.gov/SP-4029/Apollo_18-16_Apollo_Program_Budget_Appropriations.htm',
+            // 'callsigns.json': 'http://history.nasa.gov/SP-4029/Apollo_18-17_Call_Signs.htm',
+            // 'mission-insignias.json': 'http://history.nasa.gov/SP-4029/Apollo_18-18_Mission_Insignias.htm',
+            // 'ignition-weights.json': 'http://history.nasa.gov/SP-4029/Apollo_18-19_Ground_Ignition_Weights.htm',
+            // 'ascent-data.json': 'http://history.nasa.gov/SP-4029/Apollo_18-20_Ascent_Data.htm',
+            // 'earth-orbit.json': 'http://history.nasa.gov/SP-4029/Apollo_18-21_Earth_Orbit_Data.htm',
+            // 'saturn-earth-impact.json': 'http://history.nasa.gov/SP-4029/Apollo_18-22_Saturn_Stage_Earth_Impact.htm',
+            // 'SIVb-lunar-impact.json': 'http://history.nasa.gov/SP-4029/Apollo_18-26_S-IVB_Lunar_Impact.htm',
+            // 'lunar-landing.json': 'http://history.nasa.gov/SP-4029/Apollo_18-27_LM_Lunar_Landing.htm',
+            // 'lunar-propellant-status.json': 'http://history.nasa.gov/SP-4029/Apollo_18-28a_LM_Descent_Stage_Propellant_Status.htm',
+            // 'lunar-ascent-propellant-status.json': 'http://history.nasa.gov/SP-4029/Apollo_18-28b_LM_Ascent_Stage_Propellant_Status.htm',
+            // 'lunar-impact.json': 'http://history.nasa.gov/SP-4029/Apollo_18-29_LM_Lunar_Impact.htm',
+            // 'eva.json': 'http://history.nasa.gov/SP-4029/Apollo_18-30_Extravehicular_Activity.htm',
+            // 'alsep.json': 'http://history.nasa.gov/SP-4029/Apollo_18-31_ALSEP_Arrays_and_Status.htm',
+            // 'lunar-surface.json': 'http://history.nasa.gov/SP-4029/Apollo_18-32_Lunar_Surface_Experiments.htm',
+            // 'lunar-surface-1.json': 'http://history.nasa.gov/SP-4029/Apollo_18-33_Lunar_Surface_Experiments.htm',
+            // 'lunar-orbit.json': 'http://history.nasa.gov/SP-4029/Apollo_18-34_Lunar_Orbit_Experiments.htm',
+            // 'geology.json': 'http://history.nasa.gov/SP-4029/Apollo_18-35_Geology_and_Soil_Tools.htm',
+            // 'lunar-subsat.json': 'http://history.nasa.gov/SP-4029/Apollo_18-36_Lunar_Subsatellite.htm',
+            // 'mission-wight.json': 'http://history.nasa.gov/SP-4029/Apollo_18-37_Selected_Mission_Weights.htm',
+            // 'food-bev.json': 'http://history.nasa.gov/SP-4029/Apollo_18-38_Baseline_Apollo_Food_and_Beverages.htm',
+            // 'cabin-temp.json': 'http://history.nasa.gov/SP-4029/Apollo_18-39_CModule_Cabin_Temperature_History.htm',
+            // 'splashdown.json': 'http://history.nasa.gov/SP-4029/Apollo_18-40_Entry_Splashdown_and_Recovery.htm',
+            // 'time-in-space.json': 'http://history.nasa.gov/SP-4029/Apollo_18-41_Accumulated_Time_In_Space.htm',
+            // 'medical-kit.json': 'http://history.nasa.gov/SP-4029/Apollo_18-42_Apollo_Medical_Kits.htm',
+            // 'medical-kit-1.json': 'http://history.nasa.gov/SP-4029/Apollo_18-43_Apollo_Medical_Kits.htm',
+            // 'crew-weight.json': 'http://history.nasa.gov/SP-4029/Apollo_18-44_Crew_Weight_History.htm',
+            // 'inflight-med-prob.json': 'http://history.nasa.gov/SP-4029/Apollo_18-45_Inflight_Medical_Problems.htm',
+            // 'post-flight.json': 'http://history.nasa.gov/SP-4029/Apollo_18-46_Postflight_Medical_Problems.htm',
+            // 'photo.json': 'http://history.nasa.gov/SP-4029/Apollo_18-47_NASA_Photo_Numbers.htm',
+            // 'biblio.json': 'http://history.nasa.gov/SP-4029/Apollo_18-48_Bibliography.htm',
+            // 'photo-cred.json': 'http://history.nasa.gov/SP-4029/Apollo_18-49_Photo_Credits.htm',
+            // 'series.json': 'http://history.nasa.gov/series95.html'
+        };
+
+        for (var i in urls) {
+            $.ajax({
+                url        : urls[i],
+                success    : function (data, textStatus, jqXHR) {
+                    var $table  = $(data).find('table');
+
+                    var $rows = [];
+                    $table.find('tr').first().find('td').each(function (index, rows) {
+                        var row = $(rows).text().trim();
+                        if(row) {
+                            $rows.push(row);
+                        }
+                    });
+
+                    var missions = {};
+
+                    $table.find('tr').each(function (indexI, column) {
+                        var name;
+                        $(column).find('td').each(function (indexJ, td) {
+                            var content = $(td).text().trim();
+                            if(content) {
+                                if (indexJ == 0) {
+                                    name = content;
+                                }
+
+                                if(typeof $rows[indexJ - 1] != 'undefined' && typeof missions[$rows[indexJ - 1]] == 'undefined') {
+                                    missions[$rows[indexJ - 1]] = {};
+                                }
+
+                                if(typeof $rows[indexJ - 1] != 'undefined' && typeof name != 'undefined') {
+                                    missions[$rows[indexJ - 1]][name] = content;
+                                }
+                            }
+
+                        });
+                    });
+
+                    var file = {
+                        source: this.url,
+                        data: missions
+                    };
+
+                    $('#output').append('<br>' + this.url + ':<br>');
+                    $('#output').append('<textarea cols="100" rows="10">' + JSON.stringify(file) + '</textarea>');
+
+                }
+            })
+        }
+    </script>
+
+</head>
+
+<body>
+<div id="output"></div>
+</body>
+
+</html>
