@@ -1,4 +1,632 @@
 {
- "source": "http://history.nasa.gov/SP-4029/Apollo_18-15_Launch_Weather.htm",
- "data": {}
+ "ref": "http://history.nasa.gov/SP-4029/Apollo_18-15_Launch_Weather.htm",
+ "data": {
+  "Apollo 7": {
+   "Surface Observations": {
+    "Pressure (lb/in²)": "14.765",
+    "Temperature (°F)": "82.9",
+    "Relative Humidity": "65%",
+    "Dew Point (°F)": "70",
+    "Visibility (s mi)": "11.5"
+   },
+   "Surface Wind Conditions": {
+    "1st Level Wind Site (ft)": "64.0",
+    "1st Level Wind Speed (ft/sec)": "33.5",
+    "1st Level Wind Direction (deg)": "90",
+    "2nd Level Wind Site (ft)": "N/R[2]",
+    "2nd Level Wind Speed (ft/sec)": "N/R",
+    "2nd Level Wind Direction (deg)": "N/R"
+   },
+   "Cloud Coverage": {
+    "1st Level Cover": "30%",
+    "1st Level Type": "Cumulonimbus",
+    "1st Level Altitude (ft)": "2,100",
+    "2nd Level Cover": "---",
+    "2nd Level Type": "---",
+    "2nd Level Altitude (ft)": "---",
+    "3rd Level Cover": "---",
+    "3rd Level Type": "---",
+    "3rd Level Altitude (ft)": "---"
+   },
+   "Maximum Wind Speed/Ascent": {
+    "Speed (ft/sec)": "136.2",
+    "Altitude (ft)": "44,500"
+   },
+   "Maximum Dynamic Pressure": {
+    "Ground Elapsed Time (sec)": "75.5",
+    "Max q (lb/ft2)": "665.60"
+   },
+   "Maximum Wind Conditions in High Dynamic Pressure Region": {
+    "Wind Speed (ft/sec)": "51.1",
+    "Wind Direction (deg)": "309"
+   },
+   "Maximum Wind Components": {
+    "Pitch Plane - Pitch (ft/sec)": "51.8",
+    "Pitch Plane - Altitude (ft)": "36,800",
+    "Yaw Plane - Yaw (ft/sec)": "51.5",
+    "Yaw Plane - Altitude (ft)": "47,500"
+   },
+   "Maximum Shear Values (D h=1000 m)": {
+    "Pitch Plane Shear (sec-1)": "0.0113",
+    "Pitch Plane Altitude (ft)": "48,100",
+    "Yaw Plane Shear (sec-1)": "0.0085",
+    "Yaw Plane Altitude (ft)": "46,500"
+   },
+   "Maximum % Density Deviations": {
+    "Negative Deviation From PRA63[3]": "-0.1",
+    "Altitude (n mi)": "5.80",
+    "Positive Deviation from PRA63": "1.3"
+   }
+  },
+  "Apollo 8": {
+   "Surface Observations": {
+    "Pressure (lb/in²)": "14.804",
+    "Temperature (°F)": "59.0",
+    "Relative Humidity": "88%",
+    "Dew Point (°F)": "56",
+    "Visibility (s mi)": "9.9"
+   },
+   "Surface Wind Conditions": {
+    "1st Level Wind Site (ft)": "60.0",
+    "1st Level Wind Speed (ft/sec)": "18.7",
+    "1st Level Wind Direction (deg)": "348",
+    "2nd Level Wind Site (ft)": "N/R",
+    "2nd Level Wind Speed (ft/sec)": "N/R",
+    "2nd Level Wind Direction (deg)": "N/R"
+   },
+   "Cloud Coverage": {
+    "1st Level Cover": "40%",
+    "1st Level Type": "Cirrus",
+    "1st Level Altitude (ft)": "N/R",
+    "2nd Level Cover": "---",
+    "2nd Level Type": "---",
+    "2nd Level Altitude (ft)": "---",
+    "3rd Level Cover": "---",
+    "3rd Level Type": "---",
+    "3rd Level Altitude (ft)": "---"
+   },
+   "Maximum Wind Speed/Ascent": {
+    "Speed (ft/sec)": "150.9",
+    "Altitude (ft)": "49,900"
+   },
+   "Maximum Dynamic Pressure": {
+    "Ground Elapsed Time (sec)": "78.9",
+    "Max q (lb/ft2)": "776.938"
+   },
+   "Maximum Wind Conditions in High Dynamic Pressure Region": {
+    "Wind Speed (ft/sec)": "114.1",
+    "Wind Direction (deg)": "284"
+   },
+   "Maximum Wind Components": {
+    "Pitch Plane - Pitch (ft/sec)": "102.4",
+    "Pitch Plane - Altitude (ft)": "49,500",
+    "Yaw Plane - Yaw (ft/sec)": "74.1",
+    "Yaw Plane - Altitude (ft)": "51,800"
+   },
+   "Maximum Shear Values (D h=1000 m)": {
+    "Pitch Plane Shear (sec-1)": "0.0103",
+    "Pitch Plane Altitude (ft)": "52,500",
+    "Yaw Plane Shear (sec-1)": "0.0157",
+    "Yaw Plane Altitude (ft)": "57,800"
+   },
+   "Maximum % Density Deviations": {
+    "Negative Deviation From PRA63[3]": "-0.7",
+    "Altitude (n mi)": "8.50",
+    "Positive Deviation from PRA63": "3.3"
+   }
+  },
+  "Apollo 9": {
+   "Surface Observations": {
+    "Pressure (lb/in²)": "14.642",
+    "Temperature (°F)": "67.3",
+    "Relative Humidity": "61%",
+    "Dew Point (°F)": "53",
+    "Visibility (s mi)": "9.9"
+   },
+   "Surface Wind Conditions": {
+    "1st Level Wind Site (ft)": "60.0",
+    "1st Level Wind Speed (ft/sec)": "22.6",
+    "1st Level Wind Direction (deg)": "160",
+    "2nd Level Wind Site (ft)": "N/R",
+    "2nd Level Wind Speed (ft/sec)": "N/R",
+    "2nd Level Wind Direction (deg)": "N/R"
+   },
+   "Cloud Coverage": {
+    "1st Level Cover": "70%",
+    "1st Level Type": "Stratocumulus",
+    "1st Level Altitude (ft)": "3,500",
+    "2nd Level Cover": "100%",
+    "2nd Level Type": "Altostratus",
+    "2nd Level Altitude (ft)": "9,000",
+    "3rd Level Cover": "---",
+    "3rd Level Type": "---",
+    "3rd Level Altitude (ft)": "---"
+   },
+   "Maximum Wind Speed/Ascent": {
+    "Speed (ft/sec)": "250.0",
+    "Altitude (ft)": "38,480"
+   },
+   "Maximum Dynamic Pressure": {
+    "Ground Elapsed Time (sec)": "85.5",
+    "Max q (lb/ft2)": "630.73"
+   },
+   "Maximum Wind Conditions in High Dynamic Pressure Region": {
+    "Wind Speed (ft/sec)": "250.0",
+    "Wind Direction (deg)": "264"
+   },
+   "Maximum Wind Components": {
+    "Pitch Plane - Pitch (ft/sec)": "244.4",
+    "Pitch Plane - Altitude (ft)": "38,390",
+    "Yaw Plane - Yaw (ft/sec)": "71.2",
+    "Yaw Plane - Altitude (ft)": "37,500"
+   },
+   "Maximum Shear Values (D h=1000 m)": {
+    "Pitch Plane Shear (sec-1)": "0.0248",
+    "Pitch Plane Altitude (ft)": "49,700",
+    "Yaw Plane Shear (sec-1)": "0.0254",
+    "Yaw Plane Altitude (ft)": "48,160"
+   },
+   "Maximum % Density Deviations": {
+    "Negative Deviation From PRA63[3]": "-6.1",
+    "Altitude (n mi)": "None",
+    "Positive Deviation from PRA63": "None"
+   }
+  },
+  "Apollo 10": {
+   "Surface Observations": {
+    "Pressure (lb/in²)": "14.779",
+    "Temperature (°F)": "80.1",
+    "Relative Humidity": "75%",
+    "Dew Point (°F)": "72",
+    "Visibility (s mi)": "11.2"
+   },
+   "Surface Wind Conditions": {
+    "1st Level Wind Site (ft)": "60.0",
+    "1st Level Wind Speed (ft/sec)": "32.2",
+    "1st Level Wind Direction (deg)": "142",
+    "2nd Level Wind Site (ft)": "N/R",
+    "2nd Level Wind Speed (ft/sec)": "N/R",
+    "2nd Level Wind Direction (deg)": "N/R"
+   },
+   "Cloud Coverage": {
+    "1st Level Cover": "40%",
+    "1st Level Type": "Cumulus",
+    "1st Level Altitude (ft)": "2,200",
+    "2nd Level Cover": "20%",
+    "2nd Level Type": "Altocumulus",
+    "2nd Level Altitude (ft)": "11,000",
+    "3rd Level Cover": "100%",
+    "3rd Level Type": "Cirrus",
+    "3rd Level Altitude (ft)": "Unknown"
+   },
+   "Maximum Wind Speed/Ascent": {
+    "Speed (ft/sec)": "154",
+    "Altitude (ft)": "46,520"
+   },
+   "Maximum Dynamic Pressure": {
+    "Ground Elapsed Time (sec)": "82.6",
+    "Max q (lb/ft2)": "694.232"
+   },
+   "Maximum Wind Conditions in High Dynamic Pressure Region": {
+    "Wind Speed (ft/sec)": "139.4",
+    "Wind Direction (deg)": "270"
+   },
+   "Maximum Wind Components": {
+    "Pitch Plane - Pitch (ft/sec)": "133.9",
+    "Pitch Plane - Altitude (ft)": "45,280",
+    "Yaw Plane - Yaw (ft/sec)": "61.4",
+    "Yaw Plane - Altitude (ft)": "48,720"
+   },
+   "Maximum Shear Values (D h=1000 m)": {
+    "Pitch Plane Shear (sec-1)": "0.0203",
+    "Pitch Plane Altitude (ft)": "50,200",
+    "Yaw Plane Shear (sec-1)": "0.0125",
+    "Yaw Plane Altitude (ft)": "50,950"
+   },
+   "Maximum % Density Deviations": {
+    "Negative Deviation From PRA63[3]": "-1.0",
+    "Altitude (n mi)": "7.56",
+    "Positive Deviation from PRA63": "3.3"
+   }
+  },
+  "Apollo 11": {
+   "Surface Observations": {
+    "Pressure (lb/in²)": "14.798",
+    "Temperature (°F)": "84.9",
+    "Relative Humidity": "73%",
+    "Dew Point (°F)": "75",
+    "Visibility (s mi)": "9.9"
+   },
+   "Surface Wind Conditions": {
+    "1st Level Wind Site (ft)": "60.0",
+    "1st Level Wind Speed (ft/sec)": "10.8",
+    "1st Level Wind Direction (deg)": "175",
+    "2nd Level Wind Site (ft)": "N/R",
+    "2nd Level Wind Speed (ft/sec)": "N/R",
+    "2nd Level Wind Direction (deg)": "N/R"
+   },
+   "Cloud Coverage": {
+    "1st Level Cover": "10%",
+    "1st Level Type": "Cumulus",
+    "1st Level Altitude (ft)": "2,400",
+    "2nd Level Cover": "20%",
+    "2nd Level Type": "Altocumulus",
+    "2nd Level Altitude (ft)": "15,000",
+    "3rd Level Cover": "90%",
+    "3rd Level Type": "Cirrostratus",
+    "3rd Level Altitude (ft)": "Unknown"
+   },
+   "Maximum Wind Speed/Ascent": {
+    "Speed (ft/sec)": "203",
+    "Altitude (ft)": "37,400"
+   },
+   "Maximum Dynamic Pressure": {
+    "Ground Elapsed Time (sec)": "83.0",
+    "Max q (lb/ft2)": "735.17"
+   },
+   "Maximum Wind Conditions in High Dynamic Pressure Region": {
+    "Wind Speed (ft/sec)": "31.6",
+    "Wind Direction (deg)": "297"
+   },
+   "Maximum Wind Components": {
+    "Pitch Plane - Pitch (ft/sec)": "24.9",
+    "Pitch Plane - Altitude (ft)": "36,680",
+    "Yaw Plane - Yaw (ft/sec)": "23.3",
+    "Yaw Plane - Altitude (ft)": "39,530"
+   },
+   "Maximum Shear Values (D h=1000 m)": {
+    "Pitch Plane Shear (sec-1)": "0.0077",
+    "Pitch Plane Altitude (ft)": "48,490",
+    "Yaw Plane Shear (sec-1)": "0.0056",
+    "Yaw Plane Altitude (ft)": "33,790"
+   },
+   "Maximum % Density Deviations": {
+    "Negative Deviation From PRA63[3]": "-0.2",
+    "Altitude (n mi)": "7.69",
+    "Positive Deviation from PRA63": "4.4"
+   }
+  },
+  "Apollo 12": {
+   "Surface Observations": {
+    "Pressure (lb/in²)": "14.621",
+    "Temperature (°F)": "68.0",
+    "Relative Humidity": "92%",
+    "Dew Point (°F)": "65",
+    "Visibility (s mi)": "3.7"
+   },
+   "Surface Wind Conditions": {
+    "1st Level Wind Site (ft)": "60.0",
+    "1st Level Wind Speed (ft/sec)": "22.3",
+    "1st Level Wind Direction (deg)": "280",
+    "2nd Level Wind Site (ft)": "N/R",
+    "2nd Level Wind Speed (ft/sec)": "N/R",
+    "2nd Level Wind Direction (deg)": "N/R"
+   },
+   "Cloud Coverage": {
+    "1st Level Cover": "100%/rain",
+    "1st Level Type": "Stratocumulus",
+    "1st Level Altitude (ft)": "2,100",
+    "2nd Level Cover": "---",
+    "2nd Level Type": "---",
+    "2nd Level Altitude (ft)": "---",
+    "3rd Level Cover": "---",
+    "3rd Level Type": "---",
+    "3rd Level Altitude (ft)": "---"
+   },
+   "Maximum Wind Speed/Ascent": {
+    "Speed (ft/sec)": "256",
+    "Altitude (ft)": "46,670"
+   },
+   "Maximum Dynamic Pressure": {
+    "Ground Elapsed Time (sec)": "81.1",
+    "Max q (lb/ft2)": "682.95"
+   },
+   "Maximum Wind Conditions in High Dynamic Pressure Region": {
+    "Wind Speed (ft/sec)": "156.1",
+    "Wind Direction (deg)": "245"
+   },
+   "Maximum Wind Components": {
+    "Pitch Plane - Pitch (ft/sec)": "154.9",
+    "Pitch Plane - Altitude (ft)": "46,670",
+    "Yaw Plane - Yaw (ft/sec)": "-64.0",
+    "Yaw Plane - Altitude (ft)": "44,780"
+   },
+   "Maximum Shear Values (D h=1000 m)": {
+    "Pitch Plane Shear (sec-1)": "0.0183",
+    "Pitch Plane Altitude (ft)": "46,750",
+    "Yaw Plane Shear (sec-1)": "0.0178",
+    "Yaw Plane Altitude (ft)": "47,820"
+   },
+   "Maximum % Density Deviations": {
+    "Negative Deviation From PRA63[3]": "-7.6",
+    "Altitude (n mi)": "5.67",
+    "Positive Deviation from PRA63": "1.2"
+   }
+  },
+  "Apollo 13": {
+   "Surface Observations": {
+    "Pressure (lb/in²)": "14.676",
+    "Temperature (°F)": "75.9",
+    "Relative Humidity": "57%",
+    "Dew Point (°F)": "60",
+    "Visibility (s mi)": "9.9"
+   },
+   "Surface Wind Conditions": {
+    "1st Level Wind Site (ft)": "60.0",
+    "1st Level Wind Speed (ft/sec)": "20.7",
+    "1st Level Wind Direction (deg)": "105",
+    "2nd Level Wind Site (ft)": "N/R",
+    "2nd Level Wind Speed (ft/sec)": "N/R",
+    "2nd Level Wind Direction (deg)": "N/R"
+   },
+   "Cloud Coverage": {
+    "1st Level Cover": "40%",
+    "1st Level Type": "Altocumulus",
+    "1st Level Altitude (ft)": "19,000",
+    "2nd Level Cover": "100%",
+    "2nd Level Type": "Cirrostratus",
+    "2nd Level Altitude (ft)": "26,000",
+    "3rd Level Cover": "---",
+    "3rd Level Type": "---",
+    "3rd Level Altitude (ft)": "---"
+   },
+   "Maximum Wind Speed/Ascent": {
+    "Speed (ft/sec)": "246",
+    "Altitude (ft)": "44,540"
+   },
+   "Maximum Dynamic Pressure": {
+    "Ground Elapsed Time (sec)": "81.3",
+    "Max q (lb/ft2)": "651.63"
+   },
+   "Maximum Wind Conditions in High Dynamic Pressure Region": {
+    "Wind Speed (ft/sec)": "182.5",
+    "Wind Direction (deg)": "252"
+   },
+   "Maximum Wind Components": {
+    "Pitch Plane - Pitch (ft/sec)": "182.4",
+    "Pitch Plane - Altitude (ft)": "44,540",
+    "Yaw Plane - Yaw (ft/sec)": "49.2",
+    "Yaw Plane - Altitude (ft)": "42,750"
+   },
+   "Maximum Shear Values (D h=1000 m)": {
+    "Pitch Plane Shear (sec-1)": "0.0166",
+    "Pitch Plane Altitude (ft)": "50,610",
+    "Yaw Plane Shear (sec-1)": "0.0178",
+    "Yaw Plane Altitude (ft)": "45,850"
+   },
+   "Maximum % Density Deviations": {
+    "Negative Deviation From PRA63[3]": "-2.8",
+    "Altitude (n mi)": "8.64",
+    "Positive Deviation from PRA63": "0.5"
+   }
+  },
+  "Apollo 14": {
+   "Surface Observations": {
+    "Pressure (lb/in²)": "14.652",
+    "Temperature (°F)": "71.1",
+    "Relative Humidity": "86%",
+    "Dew Point (°F)": "67",
+    "Visibility (s mi)": "9.9"
+   },
+   "Surface Wind Conditions": {
+    "1st Level Wind Site (ft)": "60.0",
+    "1st Level Wind Speed (ft/sec)": "16.4",
+    "1st Level Wind Direction (deg)": "255",
+    "2nd Level Wind Site (ft)": "530.0",
+    "2nd Level Wind Speed (ft/sec)": "27.9",
+    "2nd Level Wind Direction (deg)": "275"
+   },
+   "Cloud Coverage": {
+    "1st Level Cover": "70%",
+    "1st Level Type": "Cumulus",
+    "1st Level Altitude (ft)": "4,000",
+    "2nd Level Cover": "20%",
+    "2nd Level Type": "Altocumulus",
+    "2nd Level Altitude (ft)": "8,000",
+    "3rd Level Cover": "---",
+    "3rd Level Type": "---",
+    "3rd Level Altitude (ft)": "---"
+   },
+   "Maximum Wind Speed/Ascent": {
+    "Speed (ft/sec)": "207",
+    "Altitude (ft)": "43,270"
+   },
+   "Maximum Dynamic Pressure": {
+    "Ground Elapsed Time (sec)": "81.0",
+    "Max q (lb/ft2)": "655.8"
+   },
+   "Maximum Wind Conditions in High Dynamic Pressure Region": {
+    "Wind Speed (ft/sec)": "173.2",
+    "Wind Direction (deg)": "255"
+   },
+   "Maximum Wind Components": {
+    "Pitch Plane - Pitch (ft/sec)": "173.2",
+    "Pitch Plane - Altitude (ft)": "43,720",
+    "Yaw Plane - Yaw (ft/sec)": "81.7",
+    "Yaw Plane - Altitude (ft)": "33,460"
+   },
+   "Maximum Shear Values (D h=1000 m)": {
+    "Pitch Plane Shear (sec-1)": "0.0201",
+    "Pitch Plane Altitude (ft)": "43,720",
+    "Yaw Plane Shear (sec-1)": "0.0251",
+    "Yaw Plane Altitude (ft)": "38,880"
+   },
+   "Maximum % Density Deviations": {
+    "Negative Deviation From PRA63[3]": "-5.0",
+    "Altitude (n mi)": "None",
+    "Positive Deviation from PRA63": "None"
+   }
+  },
+  "Apollo 15": {
+   "Surface Observations": {
+    "Pressure (lb/in²)": "14.788",
+    "Temperature (°F)": "85.6",
+    "Relative Humidity": "68%",
+    "Dew Point (°F)": "74",
+    "Visibility (s mi)": "9.9"
+   },
+   "Surface Wind Conditions": {
+    "1st Level Wind Site (ft)": "60.0",
+    "1st Level Wind Speed (ft/sec)": "16.7",
+    "1st Level Wind Direction (deg)": "156",
+    "2nd Level Wind Site (ft)": "530.0",
+    "2nd Level Wind Speed (ft/sec)": "17.7",
+    "2nd Level Wind Direction (deg)": "158"
+   },
+   "Cloud Coverage": {
+    "1st Level Cover": "70%",
+    "1st Level Type": "Cirrus",
+    "1st Level Altitude (ft)": "25,000",
+    "2nd Level Cover": "---",
+    "2nd Level Type": "---",
+    "2nd Level Altitude (ft)": "---",
+    "3rd Level Cover": "---",
+    "3rd Level Type": "---",
+    "3rd Level Altitude (ft)": "---"
+   },
+   "Maximum Wind Speed/Ascent": {
+    "Speed (ft/sec)": "249.3",
+    "Altitude (ft)": "45,110"
+   },
+   "Maximum Dynamic Pressure": {
+    "Ground Elapsed Time (sec)": "82.0",
+    "Max q (lb/ft2)": "768.58"
+   },
+   "Maximum Wind Conditions in High Dynamic Pressure Region": {
+    "Wind Speed (ft/sec)": "61.1",
+    "Wind Direction (deg)": "63"
+   },
+   "Maximum Wind Components": {
+    "Pitch Plane - Pitch (ft/sec)": "-58.4",
+    "Pitch Plane - Altitude (ft)": "45,030",
+    "Yaw Plane - Yaw (ft/sec)": "24.0",
+    "Yaw Plane - Altitude (ft)": "44,040"
+   },
+   "Maximum Shear Values (D h=1000 m)": {
+    "Pitch Plane Shear (sec-1)": "0.0110",
+    "Pitch Plane Altitude (ft)": "36,830",
+    "Yaw Plane Shear (sec-1)": "0.0071",
+    "Yaw Plane Altitude (ft)": "47,330"
+   },
+   "Maximum % Density Deviations": {
+    "Negative Deviation From PRA63[3]": "None",
+    "Altitude (n mi)": "7.56",
+    "Positive Deviation from PRA63": "4.2"
+   }
+  },
+  "Apollo 16": {
+   "Surface Observations": {
+    "Pressure (lb/in²)": "14.769",
+    "Temperature (°F)": "88.2",
+    "Relative Humidity": "44%",
+    "Dew Point (°F)": "62.6",
+    "Visibility (s mi)": "9.9"
+   },
+   "Surface Wind Conditions": {
+    "1st Level Wind Site (ft)": "60.0",
+    "1st Level Wind Speed (ft/sec)": "20.7",
+    "1st Level Wind Direction (deg)": "269",
+    "2nd Level Wind Site (ft)": "530.0",
+    "2nd Level Wind Speed (ft/sec)": "16.7",
+    "2nd Level Wind Direction (deg)": "256"
+   },
+   "Cloud Coverage": {
+    "1st Level Cover": "20%",
+    "1st Level Type": "Cumulus",
+    "1st Level Altitude (ft)": "3,000",
+    "2nd Level Cover": "---",
+    "2nd Level Type": "---",
+    "2nd Level Altitude (ft)": "---",
+    "3rd Level Cover": "---",
+    "3rd Level Type": "---",
+    "3rd Level Altitude (ft)": "---"
+   },
+   "Maximum Wind Speed/Ascent": {
+    "Speed (ft/sec)": "85.6",
+    "Altitude (ft)": "38,880"
+   },
+   "Maximum Dynamic Pressure": {
+    "Ground Elapsed Time (sec)": "86.0",
+    "Max q (lb/ft2)": "726.81"
+   },
+   "Maximum Wind Conditions in High Dynamic Pressure Region": {
+    "Wind Speed (ft/sec)": "85.6",
+    "Wind Direction (deg)": "257"
+   },
+   "Maximum Wind Components": {
+    "Pitch Plane - Pitch (ft/sec)": "85.3",
+    "Pitch Plane - Altitude (ft)": "38,880",
+    "Yaw Plane - Yaw (ft/sec)": "41.0",
+    "Yaw Plane - Altitude (ft)": "50,850"
+   },
+   "Maximum Shear Values (D h=1000 m)": {
+    "Pitch Plane Shear (sec-1)": "0.0095",
+    "Pitch Plane Altitude (ft)": "44,780",
+    "Yaw Plane Shear (sec-1)": "0.0114",
+    "Yaw Plane Altitude (ft)": "50,850"
+   },
+   "Maximum % Density Deviations": {
+    "Negative Deviation From PRA63[3]": "-0.8",
+    "Altitude (n mi)": "8.64",
+    "Positive Deviation from PRA63": "4.0"
+   }
+  },
+  "Apollo 17": {
+   "Surface Observations": {
+    "Pressure (lb/in²)": "14.795",
+    "Temperature (°F)": "70.0",
+    "Relative Humidity": "93%",
+    "Dew Point (°F)": "68.0",
+    "Visibility (s mi)": "6.8"
+   }
+   "Surface Wind Conditions": {
+    "1st Level Wind Site (ft)": "60.0",
+    "1st Level Wind Speed (ft/sec)": "13.5",
+    "1st Level Wind Direction (deg)": "5",
+    "2nd Level Wind Site (ft)": "530.0",
+    "2nd Level Wind Speed (ft/sec)": "17.7",
+    "2nd Level Wind Direction (deg)": "335"
+   },
+   "Cloud Coverage": {
+    "1st Level Cover": "20%",
+    "1st Level Type": "Stratocumulus",
+    "1st Level Altitude (ft)": "26,000",
+    "2nd Level Cover": "50%",
+    "2nd Level Type": "Cirrus",
+    "2nd Level Altitude (ft)": "26,000",
+    "3rd Level Cover": "---",
+    "3rd Level Type": "---",
+    "3rd Level Altitude (ft)": "---"
+   },
+   "Maximum Wind Speed/Ascent": {
+    "Speed (ft/sec)": "252.6",
+    "Altitude (ft)": "39,945"
+   },
+   "Maximum Dynamic Pressure": {
+    "Ground Elapsed Time (sec)": "82.5",
+    "Max q (lb/ft2)": "701.75"
+   },
+   "Maximum Wind Conditions in High Dynamic Pressure Region": {
+    "Wind Speed (ft/sec)": "147.9",
+    "Wind Direction (deg)": "311"
+   },
+   "Maximum Wind Components": {
+    "Pitch Plane - Pitch (ft/sec)": "114.2",
+    "Pitch Plane - Altitude (ft)": "39,945",
+    "Yaw Plane - Yaw (ft/sec)": "95.8",
+    "Yaw Plane - Altitude (ft)": "37,237"
+   },
+   "Maximum Shear Values (D h=1000 m)": {
+    "Pitch Plane Shear (sec-1)": "0.0177",
+    "Pitch Plane Altitude (ft)": "26,164",
+    "Yaw Plane Shear (sec-1)": "0.0148",
+    "Yaw Plane Altitude (ft)": "34,940"
+   },
+   "Maximum % Density Deviations": {
+    "Negative Deviation From PRA63[3]": "0.0",
+    "Altitude (n mi)": "7.02",
+    "Positive Deviation from PRA63": "1.7"
+   }
+  }
+ }
 }

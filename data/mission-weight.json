@@ -1,5 +1,5 @@
 {
- "source": "http://history.nasa.gov/SP-4029/Apollo_18-37_Selected_Mission_Weights.htm",
+ "ref": "http://history.nasa.gov/SP-4029/Apollo_18-37_Selected_Mission_Weights.htm",
  "data": {
   "Apollo 7": {
    "CSM/LM at EOI": "36,419",

@@ -1,16 +1,6 @@
 {
- "source": "http://history.nasa.gov/SP-4029/Apollo_18-05_Apollo_Training_Exercises.htm",
+ "ref": "http://history.nasa.gov/SP-4029/Apollo_18-05_Apollo_Training_Exercises.htm",
  "data": {
-  "Exercise": {
-   "Exercise": "Apollo 7",
-   "Surface Operations": null,
-   "Operations Before/After EVA": null,
-   "Total Per Mission": "18",
-   "Geology Field Trips[2]": null,
-   "Command Module Simulator": "18",
-   "Lunar Module Simulator": "0",
-   "Command Module and Lunar Module Simulators": "0"
-  },
   "Apollo 7": {
    "Exercise": "Apollo 8",
    "Surface Operations": null,

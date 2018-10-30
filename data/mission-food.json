@@ -1,4 +1,94 @@
 {
- "source": "http://history.nasa.gov/SP-4029/Apollo_18-38_Baseline_Apollo_Food_and_Beverages.htm",
- "data": {}
+ "ref": "http://history.nasa.gov/SP-4029/Apollo_18-38_Baseline_Apollo_Food_and_Beverages.htm",
+ "data": {
+  "Abbreviations": [
+   "RSB - rehydratable spoon bowl",
+   "RD - rehydratable drink",
+   "IM - intermediate moisture",
+   "D - dehydrated",
+   "T- thermostabilized",
+   "NS - natural state"
+  ],
+  "Beverages": [
+   "Cocoa (RD)",
+   "Coffee (RD)",
+   "Grape Drink (RD)",
+   "Grapefruit Drink (RD)",
+   "Grape Punch (RD)",
+   "Orange-Grapefruit Drink (RD)",
+   "Orange Juice (RD)",
+   "Pineapple-Grapefruit drink (RD)",
+   "Pineapple-Orange-Drink (RD)"
+  ],
+  "Breakfast Items": [
+   "Bacon Squares [8] (IM)",
+   "Cinnamon Toasted Bread Cubes [4] (D)",
+   "Canadian Bacon and Applesauce (RSB)",
+   "Cornflakes (RSB)",
+   "Fruit cocktail (RSB)",
+   "Sausage Patties (RSB)",
+   "Scrambled Eggs (RSB)",
+   "Peaches (RSB)",
+   "Spiced Fruit Cereal (RSB)",
+   "Apricot (IM)",
+   "Peaches (IM)"
+  ],
+  "Cubes and Candy": [
+   "Brownies [4] (IM)",
+   "Caramel Candy (IM)",
+   "Chocolate Bar (IM)",
+   "Creamed Chicken Bites [6] (D)",
+   "Cheese Crackers (D)",
+   "Cheese Sandwiches [4] (D)",
+   "Beef Sandwiches [4] (D)",
+   "Jellied Fruit Candy (IM)",
+   "Beef Jerky (IM)",
+   "Peanut Cubes [4] (NS)",
+   "Pecans [6] (IM)",
+   "Pineapple Fruitcake (IM)",
+   "Sugar Cookies [4] (D)",
+   "Turkey Bites [4] (D)"
+  ],
+  "Desserts": [
+   "Applesauce (RSB)",
+   "Banana Pudding (RSB)",
+   "Butterscotch Pudding (RSB)",
+   "Chocolate Pudding (RSB)",
+   "Cranberry-Orange Sauce (RSB)",
+   "Peach Ambrosia (RSB)"
+  ],
+  "Salads and Soups": [
+   "Chicken and Rice Soup (RSB)",
+   "Lobster Bisque (RSB)",
+   "Pea Soup (RSB)",
+   "Potato Soup (RSB)",
+   "Shrimp Cocktail (RSB)",
+   "Tomato Soup (RSB)",
+   "Tuna Salad (RSB)"
+  ],
+  "Sandwich Spreads and Bread": [
+   "Bread [Slice] (NS)",
+   "Catsup (NS)",
+   "Cheddar Cheese [2 oz.] (NS)",
+   "Chicken Salad [8 oz.] (T)",
+   "Ham Salad [8 oz.] (T)",
+   "Jelly (NS)",
+   "Mustard (NS)",
+   "Peanut Butter (NS)"
+  ],
+  "Meats": [
+   "Beef Pot Roast (RSB)",
+   "Beef and Vegetables (RS)",
+   "Beef Stew (RSB)",
+   "Chicken and Rice (RSB)",
+   "Chicken and Vegetables (RSB)",
+   "Chicken Stew (RSB)",
+   "Pork and Scalloped Potatoes (RSB)",
+   "Spaghetti, Meat Sauce (RSB)",
+   "Beef and Gravy (T)",
+   "Frankfurters (T)",
+   "Meatballs, Sauce (T)",
+   "Turkey and Gravy (T)"
+  ]
+ }
 }

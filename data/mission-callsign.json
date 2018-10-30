@@ -1,13 +1,13 @@
 {
- "source": "http://history.nasa.gov/SP-4029/Apollo_18-17_Call_Signs.htm",
+ "ref": "http://history.nasa.gov/SP-4029/Apollo_18-17_Call_Signs.htm",
  "data": {
   "Mission": {
    "Mission": "Command Module",
-   "Apollo 7": "Apollo 7 .",
-   "Apollo 8": "Apollo 8 .",
-   "Apollo 9": "Gumdrop . Derived from the appearance of the spacecraft when transported on Earth. During shipment, it was wrapped in blue wrappings giving appearance of a wrapped gumdrop.",
+   "Apollo 7": "Apollo 7",
+   "Apollo 8": "Apollo 8",
+   "Apollo 9": "Gumdrop. Derived from the appearance of the spacecraft when transported on Earth. During shipment, it was wrapped in blue wrappings giving appearance of a wrapped gumdrop.",
    "Apollo 10": "Charlie Brown , from a character in comic strip Peanuts© drawn by Charles L. Schulz. As in the comic, the CM Charlie Brown would be the guardian of the LM Snoopy. ",
-   "Apollo 11": "Columbia , after Columbiad , the canon used to launch Jules Verne’s moonship (commonly thought to be the moonship itself which was referred to only as the projectile ); also used because of the close relationship of the word to the United States’ origins.",
+   "Apollo 11": "Columbia , after Columbiad, the canon used to launch Jules Verne’s moonship (commonly thought to be the moonship itself which was referred to only as the projectile ); also used because of the close relationship of the word to the United States origins.",
    "Apollo 12": "Yankee Clipper , selected from names submitted by employees of the command module prime contractor.",
    "Apollo 13": "Odyssey, reminiscent of the long voyage of Odysseus of Greek mythology.",
    "Apollo 14": "Kitty Hawk , the site of the Wright brothers’ first flight in Kitty Hawk, NC.",
@@ -17,9 +17,9 @@
   },
   "Command Module": {
    "Mission": "Lunar Module",
-   "Apollo 7": "None.",
-   "Apollo 8": "None.",
-   "Apollo 9": "Spider , derived from its bug‑like configuration.",
+   "Apollo 7": "None",
+   "Apollo 8": "None",
+   "Apollo 9": "Spider, derived from its bug‑like configuration.",
    "Apollo 10": "Snoopy, after the beagle dog character in the same comic strip. The name referred to the fact that the LM would be snooping around the lunar surface in low orbit. Also, at the Manned Spacecraft Center, Snoopy was symbol of quality performance. Employees who did outstanding work were awarded a silver Snoopy pin.",
    "Apollo 11": "Eagle, after the eagle selected for the mission insignia.",
    "Apollo 12": "Intrepid , selected from names submitted by employees of the lunar module prime contractor.",

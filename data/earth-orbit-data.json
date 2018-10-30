@@ -1,5 +1,5 @@
 {
- "source": "http://history.nasa.gov/SP-4029/Apollo_18-21_Earth_Orbit_Data.htm",
+ "ref": "http://history.nasa.gov/SP-4029/Apollo_18-21_Earth_Orbit_Data.htm",
  "data": {
   "Apollo 7": {
    "Insertion - GET (sec)": "626.76",
